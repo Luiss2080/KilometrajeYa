@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "KilometrajeYa",
+    "slug": "kilometrajeya",
+    "scheme": "kilometrajeya",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.kilometrajeya"
+    },
+    "android": {
+      "package": "com.luiss2080.kilometrajeya"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
