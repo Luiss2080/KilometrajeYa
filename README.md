@@ -52,6 +52,8 @@ El detalle de cada tabla y la política de migraciones están en [docs/ARQUITECT
 4. Documentos y vencimientos
 5. Alertas y reportes de costo
 
+> Detalle fase por fase: [docs/ROADMAP.md](docs/ROADMAP.md) · [docs/SPEC.md](docs/SPEC.md) · [docs/PLANNING.md](docs/PLANNING.md)
+
 ## 📂 Estructura
 
 ```
